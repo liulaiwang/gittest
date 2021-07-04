@@ -7,4 +7,6 @@ package com.media.po;
  */
 public class User {
     private int age;
+//    add in b1
+    private String name;
 }
