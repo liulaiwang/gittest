@@ -6,4 +6,5 @@ package com.media.po;
  * @Date: 2021/07/04/11:10
  */
 public class User {
+    private int age;
 }
