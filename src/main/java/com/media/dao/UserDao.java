@@ -6,4 +6,5 @@ package com.media.dao;
  * @Date: 2021/07/04/11:10
  */
 public class UserDao {
+    private String msg;
 }
